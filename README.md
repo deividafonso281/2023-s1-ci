@@ -6,7 +6,7 @@ de acordo com alguns critérios. Entretanto, o código está incompleto e possui
 bugs, o seu trabalho é consertá-lo, completá-lo e rodar o pipeline.<br>
 
 Este repositório foi desenvolvido utilizando o gerenciador de pacotes 
-**poetry**, mas você não precisa dele. Basta utilizar o  
+**poetry**, mas você não precisa dele. Basta utilizar o @#!  
 simple_web_api/requirements.txt<br>
 
 ### Os critérios para senhas válidas são:
